@@ -7,7 +7,7 @@ function random_place (): [number, number] {
   return [rx, ry]
 }
 
-const setbomb (): {
+const setbomb () => {
 }
 
 const Home = () => {
